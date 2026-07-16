@@ -7,6 +7,7 @@ import Guarantees from './components/sections/Guarantees'
 import Lookbook from './components/sections/Lookbook'
 import Testimonials from './components/sections/Testimonials'
 import FAQ from './components/sections/FAQ'
+import Newsletter from './components/sections/Newsletter'
 import Footer from './components/sections/Footer'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Lookbook />
       <Testimonials />
       <FAQ />
+      <Newsletter />
       <Footer />
     </>
   )
